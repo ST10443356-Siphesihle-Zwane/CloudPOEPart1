@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|c:\\users\\sihle\\onedrive\\desktop\\cloudpoefinal\\st10443356cloudpoepart1\\eventeasest10443356part1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|c:\\users\\sihle\\onedrive\\desktop\\cloudpoefinal\\st10443356cloudpoepart1\\eventeasest10443356part1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|c:\\users\\sihle\\onedrive\\desktop\\cloudpoefinal\\st10443356cloudpoepart1\\eventeasest10443356part1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|c:\\users\\sihle\\onedrive\\desktop\\cloudpoefinal\\st10443356cloudpoepart1\\eventeasest10443356part1\\controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|solutionrelative:controllers\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|c:\\users\\sihle\\onedrive\\desktop\\cloudpoefinal\\st10443356cloudpoepart1\\eventeasest10443356part1\\controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|solutionrelative:controllers\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|c:\\users\\sihle\\onedrive\\desktop\\cloudpoefinal\\st10443356cloudpoepart1\\eventeasest10443356part1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|c:\\users\\sihle\\onedrive\\desktop\\cloudpoefinal\\st10443356cloudpoepart1\\eventeasest10443356part1\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|solutionrelative:controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|c:\\users\\sihle\\onedrive\\desktop\\cloudpoefinal\\st10443356cloudpoepart1\\eventeasest10443356part1\\data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B203DA8-CC5A-4E94-AEF6-24FC6B9C9FE0}|EventEaseST10443356Part1.csproj|solutionrelative:data\\eventeasedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:37:57.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-20T11:35:34.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Controllers\\VenueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\VenueController.cs",
+              "ToolTip": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Controllers\\VenueController.cs",
+              "RelativeToolTip": "Controllers\\VenueController.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAwwBgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:49:11.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-20T11:52:32.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-21T21:49:39.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Controllers\\BookingController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingController.cs",
+              "ToolTip": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Controllers\\BookingController.cs",
+              "RelativeToolTip": "Controllers\\BookingController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAADwvxgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:51:04.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Controllers\\EventController.cs",
+              "RelativeToolTip": "Controllers\\EventController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:50:15.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EventEaseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Data\\EventEaseDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\EventEaseDbContext.cs",
+              "ToolTip": "C:\\Users\\Sihle\\OneDrive\\Desktop\\CloudPOEFinal\\ST10443356CloudPOEPart1\\EventEaseST10443356Part1\\Data\\EventEaseDbContext.cs",
+              "RelativeToolTip": "Data\\EventEaseDbContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-20T11:30:11.911Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

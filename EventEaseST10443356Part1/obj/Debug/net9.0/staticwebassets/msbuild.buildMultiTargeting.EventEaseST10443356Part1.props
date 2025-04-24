@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\EventEaseST10443356Part1.props" />
+</Project>
